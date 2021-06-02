@@ -6,24 +6,24 @@ import SlackSVG from '../svg/slack.svg'
 import TwitterSVG from '../svg/twitter.svg'
 
 const socialLinks = [
-  {
+  /*{
     Component: GitHubSVG,
     href: 'https://github.com/graphcms/gatsby-graphcms-ecommerce-starter',
     title: 'GitHub',
-  },
-  {
+  },*/
+  /*{
     Component: SlackSVG,
     href: 'http://slack.graphcms.com',
     title: 'Slack',
-  },
+  },*/
   {
     Component: TwitterSVG,
-    href: 'https://twitter.com/graphcms',
+    href: 'https://twitter.com/vremigrant',
     title: 'Twitter',
   },
   {
     Component: LinkedInSVG,
-    href: 'https://www.linkedin.com/company/graphcms',
+    href: 'https://www.linkedin.com/in/anaydenov/',
     title: 'LinkedIn',
   },
 ]
