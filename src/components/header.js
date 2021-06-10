@@ -38,8 +38,7 @@ function Header() {
         <div className="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0">
           <div className="flex items-center justify-between w-full md:w-auto">
             <Link to="/" aria-label="Vremigrant">
-              <GraphCMSLogo className="hidden sm:block h-10" />
-              <GraphCMSMark className="h-10 sm:hidden" />
+                    <GraphCMSLogo />
             </Link>
             <div className="-mr-2 flex items-center md:hidden">
               <button
